@@ -1,0 +1,3 @@
+/* /404.html 404
+/blog https://blog.marciosimoes.com/blog/ 301
+/blog/* https://blog.marciosimoes.com/blog/:splat 301
